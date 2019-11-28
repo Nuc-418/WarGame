@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/kikoa/OneDrive/Desktop/MyPrograms/XNA/WarGame/WarGame/Content/tank/bala.FBX</SourceFile>
+  <SourceFile>C:/Users/kikoa/OneDrive/Documents/GitHub/Nuc_Engine/WarGame/WarGame/WarGame/Content/tank/bala.FBX</SourceFile>
   <SourceTime>2018-12-04T14:18:55.4674114+00:00</SourceTime>
-  <DestFile>C:/Users/kikoa/OneDrive/Desktop/MyPrograms/XNA/WarGame/WarGame/Content/bin/Windows/tank/bala.xnb</DestFile>
-  <DestTime>2018-12-04T15:17:19.9861599+00:00</DestTime>
+  <DestFile>C:/Users/kikoa/OneDrive/Documents/GitHub/Nuc_Engine/WarGame/WarGame/WarGame/Content/bin/Windows/tank/bala.xnb</DestFile>
+  <DestTime>2019-11-28T19:37:38.2061635+00:00</DestTime>
   <Importer>FbxImporter</Importer>
   <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
   <Processor>ModelProcessor</Processor>

@@ -4,8 +4,8 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/kikoa/OneDrive/Desktop/MyPrograms/XNA/WarGame/WarGame/Content/terrainTexture.jfif</File>
-    <File>C:/Users/kikoa/OneDrive/Desktop/MyPrograms/XNA/WarGame/WarGame/Content/map.jpg</File>
-    <File>C:/Users/kikoa/OneDrive/Desktop/MyPrograms/XNA/WarGame/WarGame/Content/tank/bala.FBX</File>
+    <File>C:/Users/kikoa/OneDrive/Documents/GitHub/Nuc_Engine/WarGame/WarGame/WarGame/Content/terrainTexture.jfif</File>
+    <File>C:/Users/kikoa/OneDrive/Documents/GitHub/Nuc_Engine/WarGame/WarGame/WarGame/Content/map.jpg</File>
+    <File>C:/Users/kikoa/OneDrive/Documents/GitHub/Nuc_Engine/WarGame/WarGame/WarGame/Content/tank/bala.FBX</File>
   </SourceFiles>
 </SourceFileCollection>

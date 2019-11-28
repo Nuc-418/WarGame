@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/kikoa/OneDrive/Desktop/MyPrograms/XNA/WarGame/WarGame/Content/map.jpg</SourceFile>
+  <SourceFile>C:/Users/kikoa/OneDrive/Documents/GitHub/Nuc_Engine/WarGame/WarGame/WarGame/Content/map.jpg</SourceFile>
   <SourceTime>2018-10-08T16:31:02.9781693+01:00</SourceTime>
-  <DestFile>C:/Users/kikoa/OneDrive/Desktop/MyPrograms/XNA/WarGame/WarGame/Content/bin/Windows/map.xnb</DestFile>
-  <DestTime>2018-10-15T12:51:12.4131307+01:00</DestTime>
+  <DestFile>C:/Users/kikoa/OneDrive/Documents/GitHub/Nuc_Engine/WarGame/WarGame/WarGame/Content/bin/Windows/map.xnb</DestFile>
+  <DestTime>2019-11-28T19:37:37.9368582+00:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
