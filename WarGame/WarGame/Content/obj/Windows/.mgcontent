@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/kikoa/OneDrive/Desktop/MyPrograms/XNA/WarGame/WarGame/Content/terrainTexture.jfif</File>
+    <File>C:/Users/kikoa/OneDrive/Desktop/MyPrograms/XNA/WarGame/WarGame/Content/map.jpg</File>
+    <File>C:/Users/kikoa/OneDrive/Desktop/MyPrograms/XNA/WarGame/WarGame/Content/tank/bala.FBX</File>
+  </SourceFiles>
+</SourceFileCollection>
